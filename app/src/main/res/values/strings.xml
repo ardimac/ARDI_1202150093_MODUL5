@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ARDI_1202150093_MODUL5</string>
+    <string name="action_settings">Setting</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="colorArray">
+        <item>Putih</item>
+        <item>Merah</item>
+        <item>Cyan</item>
+        <item>Hijau</item>
+    </string-array>
+</resources>

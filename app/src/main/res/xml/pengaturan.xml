@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:title="Pilih Warna Background"
+        android:summary="%s"
+        android:key="chosenColor"
+        android:defaultValue="Putih"
+        android:entries="@array/colorArray"
+        android:entryValues="@array/colorArray" />
+</PreferenceScreen>
